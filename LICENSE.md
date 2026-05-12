@@ -1,4 +1,4 @@
-# 
+# Enhance Audacity for macOS with custom Audacity for macOS Overlay | auto-tune + chromatic-aberration-fix, the #1 overlay. Includes auto-tune and chromatic-aberration-fix for a
 
 
 
